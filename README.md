@@ -1,1 +1,1 @@
-# ExapandableHeightGridView
+# SoftpalGridView
