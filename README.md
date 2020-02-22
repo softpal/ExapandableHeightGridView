@@ -54,7 +54,7 @@ Include the class ExpandableGridView.java in your project.
    ### 1. Calling  ExpandableGridView Class
    
    
-        public class ExpandableHeightGridView extends GridView
+      public class ExpandableHeightGridView extends GridView
 	
 	boolean expanded = false;
 	
@@ -135,7 +135,7 @@ Include the class ExpandableGridView.java in your project.
   ### 2. Getting ExpandableGridView in your Fragment.
         
        
-final ExpandableHeightGridView gridView = view.findViewById(R.id.simpleGridView);
+     final ExpandableHeightGridView gridView = view.findViewById(R.id.simpleGridView);
 
 
 
