@@ -55,7 +55,6 @@ Include the class ExpandableGridView.java in your project.
    
    
         public class ExpandableHeightGridView extends GridView
-{
 	
 	boolean expanded = false;
 	
